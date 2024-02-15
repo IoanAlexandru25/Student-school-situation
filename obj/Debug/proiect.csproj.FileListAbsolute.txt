@@ -1,0 +1,55 @@
+C:\Users\Tuy Ruy\Desktop\PAW C#\proiect\Ioan Alexandru Andrei\Ioan Alexandru Andrei\bin\Debug\CentralizatorDB.mdf
+C:\Users\Tuy Ruy\Desktop\PAW C#\proiect\Ioan Alexandru Andrei\Ioan Alexandru Andrei\bin\Debug\CentralizatorDB_log.ldf
+C:\Users\Tuy Ruy\Desktop\PAW C#\proiect\Ioan Alexandru Andrei\Ioan Alexandru Andrei\bin\Debug\Ioan Alexandru Andrei.exe.config
+C:\Users\Tuy Ruy\Desktop\PAW C#\proiect\Ioan Alexandru Andrei\Ioan Alexandru Andrei\bin\Debug\Ioan Alexandru Andrei.exe
+C:\Users\Tuy Ruy\Desktop\PAW C#\proiect\Ioan Alexandru Andrei\Ioan Alexandru Andrei\bin\Debug\Ioan Alexandru Andrei.pdb
+C:\Users\Tuy Ruy\Desktop\PAW C#\proiect\Ioan Alexandru Andrei\Ioan Alexandru Andrei\obj\Debug\proiect.csproj.AssemblyReference.cache
+C:\Users\Tuy Ruy\Desktop\PAW C#\proiect\Ioan Alexandru Andrei\Ioan Alexandru Andrei\obj\Debug\proiect.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tuy Ruy\Desktop\PAW C#\proiect\Ioan Alexandru Andrei\Ioan Alexandru Andrei\obj\Debug\Ioan_Alexandru_Andrei.Form1.resources
+C:\Users\Tuy Ruy\Desktop\PAW C#\proiect\Ioan Alexandru Andrei\Ioan Alexandru Andrei\obj\Debug\Ioan_Alexandru_Andrei.Grafic.resources
+C:\Users\Tuy Ruy\Desktop\PAW C#\proiect\Ioan Alexandru Andrei\Ioan Alexandru Andrei\obj\Debug\Ioan_Alexandru_Andrei.MainForm.resources
+C:\Users\Tuy Ruy\Desktop\PAW C#\proiect\Ioan Alexandru Andrei\Ioan Alexandru Andrei\obj\Debug\Ioan_Alexandru_Andrei.Properties.Resources.resources
+C:\Users\Tuy Ruy\Desktop\PAW C#\proiect\Ioan Alexandru Andrei\Ioan Alexandru Andrei\obj\Debug\proiect.csproj.GenerateResource.cache
+C:\Users\Tuy Ruy\Desktop\PAW C#\proiect\Ioan Alexandru Andrei\Ioan Alexandru Andrei\obj\Debug\proiect.csproj.CoreCompileInputs.cache
+C:\Users\Tuy Ruy\Desktop\PAW C#\proiect\Ioan Alexandru Andrei\Ioan Alexandru Andrei\obj\Debug\Ioan Alexandru Andrei.exe
+C:\Users\Tuy Ruy\Desktop\PAW C#\proiect\Ioan Alexandru Andrei\Ioan Alexandru Andrei\obj\Debug\Ioan Alexandru Andrei.pdb
+C:\Users\Tuy Ruy\Desktop\PAW C#\proiect\Ioan Alexandru Andrei\Ioan Alexandru Andrei\obj\Debug\proiect.Form1.resources
+C:\Users\Tuy Ruy\Desktop\PAW C#\proiect\Ioan Alexandru Andrei\Ioan Alexandru Andrei\obj\Debug\proiect.Grafic.resources
+C:\Users\Tuy Ruy\Desktop\PAW C#\proiect\Ioan Alexandru Andrei\proiect\obj\Debug\proiect.csproj.AssemblyReference.cache
+C:\Users\Tuy Ruy\Desktop\PAW C#\proiect\Ioan Alexandru Andrei\proiect\obj\Debug\proiect.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tuy Ruy\Desktop\PAW C#\proiect\Ioan Alexandru Andrei\proiect\obj\Debug\proiect.Form1.resources
+C:\Users\Tuy Ruy\Desktop\PAW C#\proiect\Ioan Alexandru Andrei\proiect\obj\Debug\proiect.Grafic.resources
+C:\Users\Tuy Ruy\Desktop\PAW C#\proiect\Ioan Alexandru Andrei\proiect\obj\Debug\Ioan_Alexandru_Andrei.Properties.Resources.resources
+C:\Users\Tuy Ruy\Desktop\PAW C#\proiect\Ioan Alexandru Andrei\proiect\obj\Debug\proiect.csproj.GenerateResource.cache
+C:\Users\Tuy Ruy\Desktop\PAW C#\proiect\Ioan Alexandru Andrei\proiect\obj\Debug\proiect.csproj.CoreCompileInputs.cache
+C:\Users\Tuy Ruy\Desktop\PAW C#\proiect\Ioan Alexandru Andrei\proiect\obj\Debug\Ioan Alexandru Andrei.pdb
+C:\Users\Tuy Ruy\Desktop\PAW C#\proiect\Ioan Alexandru Andrei\proiect\obj\Debug\proiect.MainForm.resources
+C:\Users\Tuy Ruy\Desktop\PAW C#\proiect\Ioan Alexandru Andrei\proiect\bin\Debug\Ioan Alexandru Andrei.exe.config
+C:\Users\Tuy Ruy\Desktop\PAW C#\proiect\Ioan Alexandru Andrei\proiect\bin\Debug\Ioan Alexandru Andrei.exe
+C:\Users\Tuy Ruy\Desktop\PAW C#\proiect\Ioan Alexandru Andrei\proiect\bin\Debug\Ioan Alexandru Andrei.pdb
+C:\Users\Tuy Ruy\Desktop\PAW C#\proiect\Ioan Alexandru Andrei\proiect\obj\Debug\Ioan Alexandru Andrei.exe
+C:\Users\Tuy Ruy\Desktop\PAW C#\proiect\proiect\proiect\bin\Debug\Ioan Alexandru Andrei.exe.config
+C:\Users\Tuy Ruy\Desktop\PAW C#\proiect\proiect\proiect\bin\Debug\Ioan Alexandru Andrei.exe
+C:\Users\Tuy Ruy\Desktop\PAW C#\proiect\proiect\proiect\bin\Debug\Ioan Alexandru Andrei.pdb
+C:\Users\Tuy Ruy\Desktop\PAW C#\proiect\proiect\proiect\obj\Debug\proiect.csproj.AssemblyReference.cache
+C:\Users\Tuy Ruy\Desktop\PAW C#\proiect\proiect\proiect\obj\Debug\proiect.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tuy Ruy\Desktop\PAW C#\proiect\proiect\proiect\obj\Debug\proiect.Form1.resources
+C:\Users\Tuy Ruy\Desktop\PAW C#\proiect\proiect\proiect\obj\Debug\proiect.Grafic.resources
+C:\Users\Tuy Ruy\Desktop\PAW C#\proiect\proiect\proiect\obj\Debug\proiect.MainForm.resources
+C:\Users\Tuy Ruy\Desktop\PAW C#\proiect\proiect\proiect\obj\Debug\Ioan_Alexandru_Andrei.Properties.Resources.resources
+C:\Users\Tuy Ruy\Desktop\PAW C#\proiect\proiect\proiect\obj\Debug\proiect.csproj.GenerateResource.cache
+C:\Users\Tuy Ruy\Desktop\PAW C#\proiect\proiect\proiect\obj\Debug\proiect.csproj.CoreCompileInputs.cache
+C:\Users\Tuy Ruy\Desktop\PAW C#\proiect\proiect\proiect\obj\Debug\Ioan Alexandru Andrei.exe
+C:\Users\Tuy Ruy\Desktop\PAW C#\proiect\proiect\proiect\obj\Debug\Ioan Alexandru Andrei.pdb
+E:\Facultate CSIE\Anul II\Semestrul 2\PAW C#\proiect\proiect\proiect\bin\Debug\Ioan Alexandru Andrei.exe.config
+E:\Facultate CSIE\Anul II\Semestrul 2\PAW C#\proiect\proiect\proiect\bin\Debug\Ioan Alexandru Andrei.exe
+E:\Facultate CSIE\Anul II\Semestrul 2\PAW C#\proiect\proiect\proiect\bin\Debug\Ioan Alexandru Andrei.pdb
+E:\Facultate CSIE\Anul II\Semestrul 2\PAW C#\proiect\proiect\proiect\obj\Debug\proiect.csproj.AssemblyReference.cache
+E:\Facultate CSIE\Anul II\Semestrul 2\PAW C#\proiect\proiect\proiect\obj\Debug\proiect.Form1.resources
+E:\Facultate CSIE\Anul II\Semestrul 2\PAW C#\proiect\proiect\proiect\obj\Debug\proiect.Grafic.resources
+E:\Facultate CSIE\Anul II\Semestrul 2\PAW C#\proiect\proiect\proiect\obj\Debug\proiect.MainForm.resources
+E:\Facultate CSIE\Anul II\Semestrul 2\PAW C#\proiect\proiect\proiect\obj\Debug\Ioan_Alexandru_Andrei.Properties.Resources.resources
+E:\Facultate CSIE\Anul II\Semestrul 2\PAW C#\proiect\proiect\proiect\obj\Debug\proiect.csproj.GenerateResource.cache
+E:\Facultate CSIE\Anul II\Semestrul 2\PAW C#\proiect\proiect\proiect\obj\Debug\proiect.csproj.CoreCompileInputs.cache
+E:\Facultate CSIE\Anul II\Semestrul 2\PAW C#\proiect\proiect\proiect\obj\Debug\Ioan Alexandru Andrei.exe
+E:\Facultate CSIE\Anul II\Semestrul 2\PAW C#\proiect\proiect\proiect\obj\Debug\Ioan Alexandru Andrei.pdb

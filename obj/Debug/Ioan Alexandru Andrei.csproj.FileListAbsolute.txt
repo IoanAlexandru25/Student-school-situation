@@ -1,0 +1,15 @@
+C:\Users\Tuy Ruy\Desktop\PAW C#\proiect\Ioan Alexandru Andrei\Ioan Alexandru Andrei\obj\Debug\Ioan Alexandru Andrei.csproj.AssemblyReference.cache
+C:\Users\Tuy Ruy\Desktop\PAW C#\proiect\Ioan Alexandru Andrei\Ioan Alexandru Andrei\obj\Debug\Ioan Alexandru Andrei.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tuy Ruy\Desktop\PAW C#\proiect\Ioan Alexandru Andrei\Ioan Alexandru Andrei\obj\Debug\Ioan_Alexandru_Andrei.Properties.Resources.resources
+C:\Users\Tuy Ruy\Desktop\PAW C#\proiect\Ioan Alexandru Andrei\Ioan Alexandru Andrei\obj\Debug\Ioan Alexandru Andrei.csproj.GenerateResource.cache
+C:\Users\Tuy Ruy\Desktop\PAW C#\proiect\Ioan Alexandru Andrei\Ioan Alexandru Andrei\obj\Debug\Ioan Alexandru Andrei.csproj.CoreCompileInputs.cache
+C:\Users\Tuy Ruy\Desktop\PAW C#\proiect\Ioan Alexandru Andrei\Ioan Alexandru Andrei\bin\Debug\Ioan Alexandru Andrei.exe.config
+C:\Users\Tuy Ruy\Desktop\PAW C#\proiect\Ioan Alexandru Andrei\Ioan Alexandru Andrei\bin\Debug\Ioan Alexandru Andrei.exe
+C:\Users\Tuy Ruy\Desktop\PAW C#\proiect\Ioan Alexandru Andrei\Ioan Alexandru Andrei\bin\Debug\Ioan Alexandru Andrei.pdb
+C:\Users\Tuy Ruy\Desktop\PAW C#\proiect\Ioan Alexandru Andrei\Ioan Alexandru Andrei\obj\Debug\Ioan Alexandru Andrei.exe
+C:\Users\Tuy Ruy\Desktop\PAW C#\proiect\Ioan Alexandru Andrei\Ioan Alexandru Andrei\obj\Debug\Ioan Alexandru Andrei.pdb
+C:\Users\Tuy Ruy\Desktop\PAW C#\proiect\Ioan Alexandru Andrei\Ioan Alexandru Andrei\obj\Debug\Ioan_Alexandru_Andrei.Form1.resources
+C:\Users\Tuy Ruy\Desktop\PAW C#\proiect\Ioan Alexandru Andrei\Ioan Alexandru Andrei\obj\Debug\Ioan_Alexandru_Andrei.MainForm.resources
+C:\Users\Tuy Ruy\Desktop\PAW C#\proiect\Ioan Alexandru Andrei\Ioan Alexandru Andrei\bin\Debug\CentralizatorDB.mdf
+C:\Users\Tuy Ruy\Desktop\PAW C#\proiect\Ioan Alexandru Andrei\Ioan Alexandru Andrei\bin\Debug\CentralizatorDB_log.ldf
+C:\Users\Tuy Ruy\Desktop\PAW C#\proiect\Ioan Alexandru Andrei\Ioan Alexandru Andrei\obj\Debug\Ioan_Alexandru_Andrei.Grafic.resources
